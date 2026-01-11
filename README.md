@@ -85,7 +85,7 @@ The repository is organized **step-wise and further lecture-wise and topic-wise*
 
 ## 🤝 Acknowledgements
 
-- Thanks to the  🔗[Kumar K Sir](https://www.linkedin.com/in/kumark1/) and other Cohort Instructors and Mentors of [DesiQnA](https://training.desiqna.in/)
+- Thanks to [Kumar K Sir](https://www.linkedin.com/in/kumark1/) and other Cohort Instructors and Mentors of [DesiQnA](https://training.desiqna.in/)
 - Inspired by consistent problem-solving and peer learning
 
 ---
