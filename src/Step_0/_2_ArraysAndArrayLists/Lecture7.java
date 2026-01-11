@@ -1,2 +1,4 @@
-package Step_0._2_ArraysAndArrayLists;public class Lecture7 {
+package Step_0._2_ArraysAndArrayLists;
+
+public class Lecture7 {
 }
