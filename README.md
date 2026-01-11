@@ -1,8 +1,12 @@
-# 📘 DSA Cohort – January 2026
+# 📘 Beginner Plan, DSA Cohort – January 2026
 
-This repository contains my **Data Structures & Algorithms (DSA) learning journey** as part of the **DSA Cohort – January 2026 By Kumar K Sir**.
+This repository contains my **Data Structures & Algorithms (30 Days Beginners Plan)** as part of the
+🔗 [DesiQNA Personalized Training & 1-1 Mentoring Program
+ by Kumar K Sir](https://training.desiqna.in/)
+
 
 The goal of this repo is to:
+- Complete all steps of the beginner plan in 30 days
 - Practice DSA fundamentals consistently
 - Build strong problem-solving skills
 - Maintain clean, readable, and well-organized Java code
@@ -22,7 +26,7 @@ The goal of this repo is to:
 
 The repository is organized **step-wise and further lecture-wise and topic-wise** for easy navigation.
 
-> 📌 Folder names reflect the **learning progression** of the cohort.
+> 📌 Folder names reflect the **learning progression** of the Beginner's plan only not the full cohort.
 
 ---
 
@@ -81,7 +85,7 @@ The repository is organized **step-wise and further lecture-wise and topic-wise*
 
 ## 🤝 Acknowledgements
 
-- Thanks to the ** Kumar K Sir and other Cohort instructors and mentors**
+- Thanks to the  🔗[Kumar K Sir](https://www.linkedin.com/in/kumark1/) and other Cohort Instructors and Mentors of [DesiQnA](https://training.desiqna.in/)
 - Inspired by consistent problem-solving and peer learning
 
 ---
