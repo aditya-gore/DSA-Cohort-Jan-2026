@@ -2,10 +2,10 @@
 
 This repository contains my **Data Structures & Algorithms (30 Days Beginners Plan)** as part of the
 🔗 [DesiQNA Personalized Training & 1-1 Mentoring Program
- by Kumar K Sir](https://training.desiqna.in/)
-
+by Kumar K Sir](https://training.desiqna.in/)
 
 The goal of this repo is to:
+
 - Complete all steps of the beginner plan in 30 days
 - Practice DSA fundamentals consistently
 - Build strong problem-solving skills
@@ -31,8 +31,11 @@ The repository is organized **step-wise and further lecture-wise and topic-wise*
 ---
 
 ## 📌 Topics/Steps Covered (So Far)
+
 ### ✅ Step 0
+
 #### ✅ Patterns
+
 - Number patterns
 - Star patterns
 - Diamond patterns
@@ -40,6 +43,7 @@ The repository is organized **step-wise and further lecture-wise and topic-wise*
 - Odd square patterns
 
 #### ✅ Arrays & 2D Arrays
+
 - Array basics
 - Boundary elements
 - Diagonal traversal
@@ -47,12 +51,26 @@ The repository is organized **step-wise and further lecture-wise and topic-wise*
 - Matrix-based logic
 
 #### ✅ ArrayLists
+
 - Basics of `ArrayList`
 - Internal working
 - Common operations
 - DSA patterns using `ArrayList`
 
-*(More steps and topics will be added as the cohort progresses)*
+### ✅ Step 1
+
+#### ✅ HackerRank Problems
+
+- Compare The Triplets
+- A Very Big Sum
+- Diagonal Difference
+- Plus-Minus
+- Staircase
+- Min max Sum
+- Birthday Cake Candles
+- Time Conversion
+
+_(More steps and topics will be added as the cohort progresses)_
 
 ---
 
@@ -95,3 +113,4 @@ The repository is organized **step-wise and further lecture-wise and topic-wise*
 1. Clone the repository:
    ```bash
    git clone git@github.com:aditya-gore/DSA-Cohort-Jan-2026.git
+   ```
