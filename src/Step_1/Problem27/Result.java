@@ -1,0 +1,25 @@
+package Step_1.Problem27;
+
+import java.util.List;
+
+class Result {
+
+    /*
+     * Complete the 'angryProfessor' function below.
+     *
+     * The function is expected to return a STRING.
+     * The function accepts following parameters:
+     *  1. INTEGER k
+     *  2. INTEGER_ARRAY a
+     */
+
+    public static String angryProfessor(int k, List<Integer> a) {
+        // Write your code here
+        int threshold = 0;
+        for(int time : a) {
+            if(time <= 0) threshold++;
+        }
+        return threshold >= k? "NO" : "YES";
+    }
+
+}
