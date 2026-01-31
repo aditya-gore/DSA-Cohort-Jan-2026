@@ -1,0 +1,60 @@
+https://www.youtube.com/watch?v=rzA7UJ-hQn4
+
+Iterable
+   |
+   v
+Collection
+   |
+   +-----------------------------+
+   |              |              |
+   v              v              v
+ List            Set            Queue
+   |              |              |
+   |              |              v
+   |              |            Deque
+   |              |              |
+   |              |      +-------+--------+
+   |              |      v                v
+   |              |  ArrayDeque      LinkedList
+   |              |
+   |      +-------+--------+
+   |      v                v
+   |  HashSet        SortedSet
+   |                     |
+   |                     v
+   |               NavigableSet
+   |                     |
+   |                     v
+   |                  TreeSet
+   |
+   +-------+--------+
+           |        |
+           v        v
+      ArrayList  LinkedList
+           |
+           v
+         Vector
+           |
+           v
+         Stack
+
+---------------------------------------------------------------------------------------
+
+         Map
+          |
+          +------------------+------------------+
+          |                  |                  |
+          v                  v                  v
+         HashMap        LinkedHashMap       Hashtable
+                                              |
+                                              v
+                                          Properties
+          |
+          v
+         SortedMap
+          |
+          v
+         NavigableMap
+          |
+          v
+         TreeMap
